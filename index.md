@@ -1,3 +1,4 @@
+# Sneha Chavan's First CS193 Homework
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
@@ -15,8 +16,10 @@ Syntax highlighted code block
 ## Header 2
 ### Header 3
 
-- Bulleted
-- List
+- The very helpful and kind TAs
+- The access to new resources
+- Help with tools
+
 
 1. Numbered
 2. List
